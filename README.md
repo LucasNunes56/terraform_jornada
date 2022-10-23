@@ -1,2 +1,2 @@
 # terraform_jornada
-Projeto criação de Dropçlets e clusters na Plataforma Digital Ocean utilizando terraform
+Projeto criação de Droplets e clusters na Plataforma Digital Ocean utilizando terraform
